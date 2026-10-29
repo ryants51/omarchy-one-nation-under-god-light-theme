@@ -1,0 +1,35 @@
+# One Nation Under God Light — Old Glory Red & Blue on parchment
+mode = "light"
+
+accent = "#b22234"
+selection = "#cdd5ea"
+muted = "#8a91a8"
+
+hyprland_active_border = "rgba(b22234ee) rgba(3c3b6eee) 45deg"
+hyprland_inactive_border = "rgba(c9cedeaa)"
+
+background = "#f8f6f0"
+dark_background = "#efece3"
+darker_background = "#e5e1d5"
+lighter_background = "#dfe3ee"
+
+foreground = "#1b2340"
+dark_foreground = "#7a819a"
+light_foreground = "#2c355a"
+bright_foreground = "#0b1229"
+
+red = "#b22234"
+yellow = "#a6780c"
+orange = "#c45a1c"
+green = "#3f7d3a"
+cyan = "#1f7a8c"
+blue = "#2f4f9e"
+magenta = "#7d3c98"
+brown = "#7a5230"
+
+bright_red = "#d0313f"
+bright_yellow = "#c08f17"
+bright_green = "#4f9a48"
+bright_cyan = "#2a95ab"
+bright_blue = "#3d63c0"
+bright_magenta = "#9a4fb8"
